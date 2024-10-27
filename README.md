@@ -56,48 +56,66 @@ IBC Modules (CosmWasm)
 Cross-Chain Bridges
 
 ## Roadmap
-Phase 1: Foundation
+### Phase 1: Foundation
 
- Core prediction market implementation
- Basic Solana trading integration
- Essential IBC connections
- MVP sentiment analysis
+ Core prediction market implementation.
+ 
+ Basic Solana trading integration.
+ 
+ Essential IBC connections.
+ 
+ MVP sentiment analysis.
 
-Phase 2: Enhancement
+### Phase 2: Enhancement
 
- Advanced sentiment analytics
- Cross-chain liquidity optimization
- Reputation system
- Enhanced UI/UX
+ Advanced sentiment analytics.
+ 
+ Cross-chain liquidity optimization.
+ 
+ Reputation system.
+ 
+ Enhanced UI/UX.
 
-Phase 3: Scaling
+### Phase 3: Scaling
 
- Additional chain integrations
- Advanced trading features
- Institutional tools
- Enhanced analytics
+ Additional chain integrations.
+ 
+ Advanced trading features.
+ 
+ Institutional tools.
+ 
+ Enhanced analytics.
 
 ## Use Cases
 
-Retail Traders:
+###Retail Traders:
 
-Participate in prediction markets
-Trade memecoins with sentiment insights
-Earn rewards through accurate predictions
-Access cross-chain liquidity
+Participate in prediction markets.
 
+Trade memecoins with sentiment insights.
 
-Institutional Players:
+Earn rewards through accurate predictions.
 
-Access unique market data
-Provide cross-chain liquidity
-Implement sophisticated trading strategies
-Analyze market sentiment
+Access cross-chain liquidity.
 
 
-DeFi Protocols:
+### Institutional Players:
 
-Integrate prediction market data
-Access cross-chain liquidity
-Implement novel trading primitives
-Build on top of our infrastructure
+Access unique market data.
+
+Provide cross-chain liquidity.
+
+Implement sophisticated trading strategies.
+
+Analyze market sentiment.
+
+
+### DeFi Protocols:
+
+Integrate prediction market data.
+
+Access cross-chain liquidity.
+
+Implement novel trading primitives.
+
+Build on top of our infrastructure.
